@@ -1,0 +1,5 @@
+- 👋 Hi, I'm @KryptoBabiez
+- 👀 I am interested in cryptocurrencies and DeFi.
+- 🌱 I am currently learning how smart contracts and Roi Dapp work.
+- 💞️ I am trying to collaborate on the development of a smart contract at the level of mechanics and UI design
+- 📫 To reach me is not yet possible, but I will update my information soon.
